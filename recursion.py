@@ -1,5 +1,7 @@
 #### Russian Doll recursive function ###
 
+print("Bhadru Bhukya @")
+
 def openRussianDoll(doll):
     if doll == 1:
         print("All dolls are opened")
